@@ -41,5 +41,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>We need Your Location</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
+	<key>FirebaseScreenReportingEnabled</key>
+	<false/>
 </dict>
 </plist>
